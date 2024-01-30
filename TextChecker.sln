@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextChecker", "TextChecker\TextChecker.csproj", "{089F7279-785D-460D-9170-24F5E3C2401F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextChecker.Tests", "TextChecker.Tests\TextChecker.Tests.csproj", "{556A6B6F-D9BD-4743-B48D-201AD117312C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{089F7279-785D-460D-9170-24F5E3C2401F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{089F7279-785D-460D-9170-24F5E3C2401F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{089F7279-785D-460D-9170-24F5E3C2401F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{089F7279-785D-460D-9170-24F5E3C2401F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{556A6B6F-D9BD-4743-B48D-201AD117312C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{556A6B6F-D9BD-4743-B48D-201AD117312C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{556A6B6F-D9BD-4743-B48D-201AD117312C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{556A6B6F-D9BD-4743-B48D-201AD117312C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E79C0E82-2240-4E0F-9460-C87693993DCC}
+	EndGlobalSection
+EndGlobal
